@@ -1,0 +1,8 @@
+name = "yzdb"
+compatibility_date = "2026-05-24"
+
+# 核心：把根目录作为静态资源
+[
+assets
+]
+directory = "."
